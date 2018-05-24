@@ -1,0 +1,178 @@
+PassengerId;Survived;Pclass;Name;Sex;Age;SibSp;Parch;Ticket;Fare;Cabin;Embarked;Name_type;Name_code;Name_1
+6;0;3;Moran;male;;0;0;330877;84.583;;Q; Mr;6; James
+18;1;2;Williams;male;;0;0;244373;13.0;;S; Mr;6; Charles Eugene
+20;1;3;Masselmani;female;;0;0;2649;7.225;;C; Mrs;8; Fatima
+27;0;3;Emir;male;;0;0;2631;7.225;;C; Mr;6; Farred Chehab
+29;1;3;O'Dwyer;female;;0;0;330959;78.792;;Q; Miss;2;" Ellen ""Nellie"""
+30;0;3;Todoroff;male;;0;0;349216;78.958;;S; Mr;6; Lalio
+32;1;1;Spencer;female;;1;0;PC 17569;1.465.208;B78;C; Mrs;8; William Augustus (Marie Eugenie)
+33;1;3;Glynn;female;;0;0;335677;7.75;;Q; Miss;2; Mary Agatha
+37;1;3;Mamee;male;;0;0;2677;72.292;;C; Mr;6; Hanna
+43;0;3;Kraeff;male;;0;0;349253;78.958;;C; Mr;6; Theodor
+46;0;3;Rogers;male;;0;0;S.C./A.4. 23567;8.05;;S; Mr;6; William John
+47;0;3;Lennon;male;;1;0;370371;15.5;;Q; Mr;6; Denis
+48;1;3;O'Driscoll;female;;0;0;14311;7.75;;Q; Miss;2; Bridget
+49;0;3;Samaan;male;;2;0;2662;216.792;;C; Mr;6; Youssef
+56;1;1;Woolner;male;;0;0;19947;35.5;C52;S; Mr;6; Hugh
+65;0;1;Stewart;male;;0;0;PC 17605;277.208;;C; Mr;6; Albert A
+66;1;3;Moubarek;male;;1;1;2661;152.458;;C; Master;1; Gerios
+77;0;3;Staneff;male;;0;0;349208;78.958;;S; Mr;6; Ivan
+78;0;3;Moutal;male;;0;0;374746;8.05;;S; Mr;6; Rahamin Haim
+83;1;3;McDermott;female;;0;0;330932;77.875;;Q; Miss;2; Brigdet Delia
+88;0;3;Slocovski;male;;0;0;SOTON/OQ 392086;8.05;;S; Mr;6; Selman Francis
+96;0;3;Shorney;male;;0;0;374910;8.05;;S; Mr;6; Charles Joseph
+102;0;3;Petroff;male;;0;0;349215;78.958;;S; Mr;6;" Pastcho (""Pentcho"")"
+108;1;3;Moss;male;;0;0;312991;7.775;;S; Mr;6; Albert Johan
+110;1;3;Moran;female;;1;0;371110;24.15;;Q; Miss;2; Bertha
+122;0;3;Moore;male;;0;0;A4. 54510;8.05;;S; Mr;6; Leonard Charles
+127;0;3;McMahon;male;;0;0;370372;7.75;;Q; Mr;6; Martin
+129;1;3;Peter;female;;1;1;2668;223.583;F E69;C; Miss;2; Anna
+141;0;3;Boulos;female;;0;2;2678;152.458;;C; Mrs;8; Joseph (Sultana)
+155;0;3;Olsen;male;;0;0;Fa 265302;73.125;;S; Mr;6; Ole Martin
+159;0;3;Smiljanic;male;;0;0;315037;86.625;;S; Mr;6; Mile
+160;0;3;Sage;male;;8;2;CA. 2343;69.55;;S; Master;1; Thomas Henry
+167;1;1;Chibnall;female;;0;1;113505;55.0;E33;S; Mrs;8; (Edith Martha Bowerman)
+169;0;1;Baumann;male;;0;0;PC 17318;25.925;;S; Mr;6; John D
+177;0;3;Lefebre;male;;3;1;4133;254.667;;S; Master;1; Henry Forbes
+181;0;3;Sage;female;;8;2;CA. 2343;69.55;;S; Miss;2; Constance Gladys
+182;0;2;Pernot;male;;0;0;SC/PARIS 2131;15.05;;C; Mr;6; Rene
+186;0;1;Rood;male;;0;0;113767;50.0;A32;S; Mr;6; Hugh Roscoe
+187;1;3;O'Brien;female;;1;0;370365;15.5;;Q; Mrs;8;" Thomas (Johanna ""Hannah"" Godfrey)"
+197;0;3;Mernagh;male;;0;0;368703;7.75;;Q; Mr;6; Robert
+199;1;3;Madigan;female;;0;0;370370;7.75;;Q; Miss;2;" Margaret ""Maggie"""
+202;0;3;Sage;male;;8;2;CA. 2343;69.55;;S; Mr;6; Frederick
+215;0;3;Kiernan;male;;1;0;367229;7.75;;Q; Mr;6; Philip
+224;0;3;Nenkoff;male;;0;0;349234;78.958;;S; Mr;6; Christo
+230;0;3;Lefebre;female;;3;1;4133;254.667;;S; Miss;2; Mathilde
+236;0;3;Harknett;female;;0;0;W./C. 6609;7.55;;S; Miss;2; Alice Phoebe
+241;0;3;Zabour;female;;1;0;2665;144.542;;C; Miss;2; Thamine
+242;1;3;Murphy;female;;1;0;367230;15.5;;Q; Miss;2;" Katherine ""Kate"""
+251;0;3;Reed;male;;0;0;362316;7.25;;S; Mr;6; James George
+257;1;1;Thorne;female;;0;0;PC 17585;79.2;;C; Mrs;8; Gertrude Maybelle
+261;0;3;Smith;male;;0;0;384461;7.75;;Q; Mr;6; Thomas
+265;0;3;Henry;female;;0;0;382649;7.75;;Q; Miss;2; Delia
+271;0;1;Cairns;male;;0;0;113798;31.0;;S; Mr;6; Alexander
+275;1;3;Healy;female;;0;0;370375;7.75;;Q; Miss;2;" Hanora ""Nora"""
+278;0;2;Parkes;male;;0;0;239853;0.0;;S; Mr;6;" Francis ""Frank"""
+285;0;1;Smith;male;;0;0;113056;26.0;A19;S; Mr;6; Richard William
+296;0;1;Lewy;male;;0;0;PC 17612;277.208;;C; Mr;6; Ervin G
+299;1;1;Saalfeld;male;;0;0;19988;30.5;C106;S; Mr;6; Adolphe
+301;1;3;Kelly;female;;0;0;9234;7.75;;Q; Miss;2;" Anna Katherine ""Annie Kate"""
+302;1;3;McCoy;male;;2;0;367226;23.25;;Q; Mr;6; Bernard
+304;1;2;Keane;female;;0;0;226593;12.35;E101;Q; Miss;2; Nora A
+305;0;3;Williams;male;;0;0;A/5 2466;8.05;;S; Mr;6;" Howard Hugh ""Harry"""
+307;1;1;Fleming;female;;0;0;17421;1.108.833;;C; Miss;2; Margaret
+325;0;3;Sage;male;;8;2;CA. 2343;69.55;;S; Mr;6; George John Jr
+331;1;3;McCoy;female;;2;0;367226;23.25;;Q; Miss;2; Agnes
+335;1;1;Frauenthal;female;;1;0;PC 17611;133.65;;S; Mrs;8; Henry William (Clara Heinsheimer)
+336;0;3;Denkoff;male;;0;0;349225;78.958;;S; Mr;6; Mitto
+348;1;3;Davison;female;;1;0;386525;16.1;;S; Mrs;8; Thomas Henry (Mary E Finck)
+352;0;1;Williams-Lambert;male;;0;0;113510;35.0;C128;S; Mr;6; Fletcher Fellows
+355;0;3;Yousif;male;;0;0;2647;7.225;;C; Mr;6; Wazli
+359;1;3;McGovern;female;;0;0;330931;78.792;;Q; Miss;2; Mary
+360;1;3;Mockler;female;;0;0;330980;78.792;;Q; Miss;2;" Helen Mary ""Ellie"""
+365;0;3;O'Brien;male;;1;0;370365;15.5;;Q; Mr;6; Thomas
+368;1;3;Moussa;female;;0;0;2626;72.292;;C; Mrs;8; (Mantoura Boulos)
+369;1;3;Jermyn;female;;0;0;14313;7.75;;Q; Miss;2; Annie
+376;1;1;Meyer;female;;1;0;PC 17604;821.708;;C; Mrs;8; Edgar Joseph (Leila Saks)
+385;0;3;Plotcharsky;male;;0;0;349227;78.958;;S; Mr;6; Vasil
+389;0;3;Sadlier;male;;0;0;367655;77.292;;Q; Mr;6; Matthew
+410;0;3;Lefebre;female;;3;1;4133;254.667;;S; Miss;2; Ida
+411;0;3;Sdycoff;male;;0;0;349222;78.958;;S; Mr;6; Todor
+412;0;3;Hart;male;;0;0;394140;68.583;;Q; Mr;6; Henry
+414;0;2;Cunningham;male;;0;0;239853;0.0;;S; Mr;6; Alfred Fleming
+416;0;3;Meek;female;;0;0;343095;8.05;;S; Mrs;8; Thomas (Annie Louise Rowley)
+421;0;3;Gheorgheff;male;;0;0;349254;78.958;;C; Mr;6; Stanio
+426;0;3;Wiseman;male;;0;0;A/4. 34244;7.25;;S; Mr;6; Phillippe
+429;0;3;Flynn;male;;0;0;364851;7.75;;Q; Mr;6; James
+432;1;3;Thorneycroft;female;;1;0;376564;16.1;;S; Mrs;8; Percival (Florence Kate White)
+445;1;3;Johannesen-Bratthammer;male;;0;0;65306;81.125;;S; Mr;6; Bernt
+452;0;3;Hagland;male;;1;0;65303;199.667;;S; Mr;6; Ingvald Olai Olsen
+455;0;3;Peduzzi;male;;0;0;A/5 2817;8.05;;S; Mr;6; Joseph
+458;1;1;Kenyon;female;;1;0;17464;518.625;D21;S; Mrs;8; Frederick R (Marion)
+460;0;3;O'Connor;male;;0;0;371060;7.75;;Q; Mr;6; Maurice
+465;0;3;Maisner;male;;0;0;A/S 2816;8.05;;S; Mr;6; Simon
+467;0;2;Campbell;male;;0;0;239853;0.0;;S; Mr;6; William
+469;0;3;Scanlan;male;;0;0;36209;7.725;;Q; Mr;6; James
+471;0;3;Keefe;male;;0;0;323592;7.25;;S; Mr;6; Arthur
+476;0;1;Clifford;male;;0;0;110465;52.0;A14;S; Mr;6; George Quincy
+482;0;2;Frost;male;;0;0;239854;0.0;;S; Mr;6;" Anthony Wood ""Archie"""
+486;0;3;Lefebre;female;;3;1;4133;254.667;;S; Miss;2; Jeannie
+491;0;3;Hagland;male;;1;0;65304;199.667;;S; Mr;6; Konrad Mathias Reiersen
+496;0;3;Yousseff;male;;0;0;2627;144.583;;C; Mr;6; Gerious
+498;0;3;Shellard;male;;0;0;C.A. 6212;15.1;;S; Mr;6; Frederick William
+503;0;3;O'Sullivan;female;;0;0;330909;76.292;;Q; Miss;2; Bridget Mary
+508;1;1;Bradley;male;;0;0;111427;26.55;;S; Mr;6;" George (""George Arthur Brayton"")"
+512;0;3;Webber;male;;0;0;SOTON/OQ 3101316;8.05;;S; Mr;6; James
+518;0;3;Ryan;male;;0;0;371110;24.15;;Q; Mr;6; Patrick
+523;0;3;Lahoud;male;;0;0;2624;7.225;;C; Mr;6; Sarkis
+525;0;3;Kassem;male;;0;0;2700;72.292;;C; Mr;6; Fared
+528;0;1;Farthing;male;;0;0;PC 17483;2.217.792;C95;S; Mr;6; John
+532;0;3;Toufik;male;;0;0;2641;72.292;;C; Mr;6; Nakli
+534;1;3;Peter;female;;0;2;2668;223.583;;C; Mrs;8; Catherine (Catherine Rizk)
+539;0;3;Risien;male;;0;0;364498;14.5;;S; Mr;6; Samuel Beard
+548;1;2;Padro y Manent;male;;0;0;SC/PARIS 2146;138.625;;C; Mr;6; Julian
+553;0;3;O'Brien;male;;0;0;330979;78.292;;Q; Mr;6; Timothy
+558;0;1;Robbins;male;;0;0;PC 17757;227.525;;C; Mr;6; Victor
+561;0;3;Morrow;male;;0;0;372622;7.75;;Q; Mr;6; Thomas Rowan
+564;0;3;Simmons;male;;0;0;SOTON/OQ 392082;8.05;;S; Mr;6; John
+565;0;3;Meanwell;female;;0;0;SOTON/O.Q. 392087;8.05;;S; Miss;2; (Marion Ogden)
+569;0;3;Doharr;male;;0;0;2686;72.292;;C; Mr;6; Tannous
+574;1;3;Kelly;female;;0;0;14312;7.75;;Q; Miss;2; Mary
+579;0;3;Caram;female;;1;0;2689;144.583;;C; Mrs;8; Joseph (Maria Elias)
+585;0;3;Paulner;male;;0;0;3411;87.125;;C; Mr;6; Uscher
+590;0;3;Murdlin;male;;0;0;A./5. 3235;8.05;;S; Mr;6; Joseph
+594;0;3;Bourke;female;;0;2;364848;7.75;;Q; Miss;2; Mary
+597;1;2;Leitch;female;;0;0;248727;33.0;;S; Miss;2; Jessie Wills
+599;0;3;Boulos;male;;0;0;2664;7.225;;C; Mr;6; Hanna
+602;0;3;Slabenoff;male;;0;0;349214;78.958;;S; Mr;6; Petco
+603;0;1;Harrington;male;;0;0;113796;42.4;;S; Mr;6; Charles H
+612;0;3;Jardin;male;;0;0;SOTON/O.Q. 3101305;7.05;;S; Mr;6; Jose Neto
+613;1;3;Murphy;female;;1;0;367230;15.5;;Q; Miss;2; Margaret Jane
+614;0;3;Horgan;male;;0;0;370377;7.75;;Q; Mr;6; John
+630;0;3;O'Connell;male;;0;0;334912;77.333;;Q; Mr;6; Patrick D
+634;0;1;Parr;male;;0;0;112052;0.0;;S; Mr;6; William Henry Marsh
+640;0;3;Thorneycroft;male;;1;0;376564;16.1;;S; Mr;6; Percival
+644;1;3;Foo;male;;0;0;1601;564.958;;S; Mr;6; Choong
+649;0;3;Willey;male;;0;0;S.O./P.P. 751;7.55;;S; Mr;6; Edward
+651;0;3;Mitkoff;male;;0;0;349221;78.958;;S; Mr;6; Mito
+654;1;3;O'Leary;female;;0;0;330919;78.292;;Q; Miss;2;" Hanora ""Norah"""
+657;0;3;Radeff;male;;0;0;349223;78.958;;S; Mr;6; Alexander
+668;0;3;Rommetvedt;male;;0;0;312993;7.775;;S; Mr;6; Knud Paust
+670;1;1;Taylor;female;;1;0;19996;52.0;C126;S; Mrs;8; Elmer Zebley (Juliet Cummins Wright)
+675;0;2;Watson;male;;0;0;239856;0.0;;S; Mr;6; Ennis Hastings
+681;0;3;Peters;female;;0;0;330935;81.375;;Q; Miss;2; Katie
+693;1;3;Lam;male;;0;0;1601;564.958;;S; Mr;6; Ali
+698;1;3;Mullens;female;;0;0;35852;77.333;;Q; Miss;2;" Katherine ""Katie"""
+710;1;3;Moubarek;male;;1;1;2661;152.458;;C; Master;1;" Halim Gonios (""William George"")"
+712;0;1;Klaber;male;;0;0;113028;26.55;C124;S; Mr;6; Herman
+719;0;3;McEvoy;male;;0;0;36568;15.5;;Q; Mr;6; Michael
+728;1;3;Mannion;female;;0;0;36866;77.375;;Q; Miss;2; Margareth
+733;0;2;Knight;male;;0;0;239855;0.0;;S; Mr;6; Robert J
+739;0;3;Ivanoff;male;;0;0;349201;78.958;;S; Mr;6; Kanio
+740;0;3;Nankoff;male;;0;0;349218;78.958;;S; Mr;6; Minko
+741;1;1;Hawksford;male;;0;0;16988;30.0;D45;S; Mr;6; Walter James
+761;0;3;Garfirth;male;;0;0;358585;14.5;;S; Mr;6; John
+767;0;1;Brewe;male;;0;0;112379;39.6;;C; Dr;11; Arthur Jackson
+769;0;3;Moran;male;;1;0;371110;24.15;;Q; Mr;6; Daniel J
+774;0;3;Elias;male;;0;0;2674;7.225;;C; Mr;6; Dibo
+777;0;3;Tobin;male;;0;0;383121;7.75;F38;Q; Mr;6; Roger
+779;0;3;Kilgannon;male;;0;0;36865;77.375;;Q; Mr;6; Thomas J
+784;0;3;Johnston;male;;1;2;W./C. 6607;23.45;;S; Mr;6; Andrew G
+791;0;3;Keane;male;;0;0;12460;7.75;;Q; Mr;6;" Andrew ""Andy"""
+793;0;3;Sage;female;;8;2;CA. 2343;69.55;;S; Miss;2; Stella Anna
+794;0;1;Hoyt;male;;0;0;PC 17600;306.958;;C; Mr;6; William Fisher
+816;0;1;Fry;male;;0;0;112058;0.0;B102;S; Mr;6; Richard
+826;0;3;Flynn;male;;0;0;368323;6.95;;Q; Mr;6; John
+827;0;3;Lam;male;;0;0;1601;564.958;;S; Mr;6; Len
+829;1;3;McCormack;male;;0;0;367228;7.75;;Q; Mr;6; Thomas Joseph
+833;0;3;Saad;male;;0;0;2671;72.292;;C; Mr;6; Amin
+838;0;3;Sirota;male;;0;0;392092;8.05;;S; Mr;6; Maurice
+840;1;1;Marechal;male;;0;0;11774;29.7;C47;C; Mr;6; Pierre
+847;0;3;Sage;male;;8;2;CA. 2343;69.55;;S; Mr;6; Douglas Bullen
+850;1;1;Goldenberg;female;;1;0;17453;891.042;C92;C; Mrs;8; Samuel L (Edwiga Grabowska)
+860;0;3;Razi;male;;0;0;2629;72.292;;C; Mr;6; Raihed
+864;0;3;Sage;female;;8;2;CA. 2343;69.55;;S; Miss;2;" Dorothy Edith ""Dolly"""
+869;0;3;van Melkebeke;male;;0;0;345777;9.5;;S; Mr;6; Philemon
+879;0;3;Laleff;male;;0;0;349217;78.958;;S; Mr;6; Kristo
+889;0;3;Johnston;female;;1;2;W./C. 6607;23.45;;S; Miss;2;" Catherine Helen ""Carrie"""
